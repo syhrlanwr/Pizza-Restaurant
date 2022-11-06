@@ -1,5 +1,6 @@
 
 # Pizza-Restaurant
+
 Nama : M. Syahrul Anwar Aria
 NIM : 1207050058
 Kelas : IF C
@@ -12,4 +13,3 @@ Kelas : IF C
 ![Screenshot]( img/5.png )
 ![Screenshot]( img/6.png )
 ![Screenshot]( img/7.png )
-![Screenshot]( img/8.png )
